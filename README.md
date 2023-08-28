@@ -1,4 +1,4 @@
-# stat-5010-final-project
+# stat-5010-final-project : Simulated example for XOR data: Regression methods VS Artificial Neural Networks
 ### CU Boulder STATS 5010, Prof. Brian Zaharatos
 Attempt: Comparing traditional Statistical Regression analysis with almost black-box-type Neural Network models with proof-of-examples in R programming and theoretical analysis. 
 
